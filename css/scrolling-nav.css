@@ -38,7 +38,7 @@ html {
 }
 
 .parallax1 {
-	background-image: url(http://gdurl.com/rYG0);
+	background-image: url(../images/cover2.jpg);
 	min-height: 100%;
 	opacity: 100;
 }
@@ -360,13 +360,6 @@ of those sections to manage the look and feel of the site. */
 	background-color:black;
 	padding-bottom:1px;
 }
-
-
-
-
-
-
-
   /***** N/A *****/
 
 .contactNA-section {
@@ -387,4 +380,10 @@ of those sections to manage the look and feel of the site. */
 .modal-aong {
 	width: 90%;
 	margin: auto;
+  }
+
+  .btn-info {
+    color: #fff;
+    background-color: #27a600 !important;
+    border-color: #186401 !important;
   }
